@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="https://hackrland.github.io/favicon.png"></img>
+    <img style="width: 5px; height: 5px;" src="https://hackrland.github.io/favicon.png"></img>
     <h1>nya~</h1>
     <h3>not femboys (^:</h3>
     <a href="https://hackrland.github.io" target="_blank">Website :3</a>
